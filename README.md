@@ -10,12 +10,12 @@ Se hizo un análisis de los siguientes puntos:
 - Distribución de ventas por ciudades.
 - Visualizaciones gráficas: gráficos de barras y mapas de calor.
 
-## 🔧 Requisitos
+## Requisitos
 
 - Python 3.x
 - Pandas
 - Plotly
 - PyArrow
 
-## 👤 Autor
+## Autor
 Diego Cruz
